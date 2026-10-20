@@ -21,3 +21,5 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ## Steps
 
 *Ref 1: Network Diagram*
+## Phase 1
+- first step coonect with tailscale
