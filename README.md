@@ -2,21 +2,23 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+A hands-on cybersecurity lab focused on security monitoring, threat detection, and incident investigation.
 
+## Project Goal
+- The goal of this project is to build a practical security monitoring environment and develop Blue Team and SOC analyst skills.
+
+##Project Modules
+- Wazuh SIEM - security monitoring and alert analysis.
+- Linux Log Analysis - authentication events and system logs
+- Network Analysis - network traffic and suspicious activity.
+- Incident Reports - investigation findings and response recommendations.
+. 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
 
